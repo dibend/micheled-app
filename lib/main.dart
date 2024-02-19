@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           secondary: const Color(0xFFeae3d4),
         ),
       ),
-      home: const MyHomePage(title: 'Flutter WebView Demo'),
+      home: const MyHomePage(title: 'VP & Broker-Manager Michele DiBenedetto'),
     );
   }
 }
@@ -38,7 +38,7 @@ class MyHomePage extends StatelessWidget {
           _linkButton(context, 'MicheleDiBenedetto.net',
               'https://micheledibenedetto.net/'),
           _linkButton(context, 'Berkshire Hathaway HomeServices Profile',
-              'https://www.bhhs.com/fox-and-roach-realtors-pa301/morristown/michele-dibenedetto'),
+              'https://www.bhhs.com/fox-and-roach-realtors-pa301/morristown/michele-dibenedetto/cid-145868'),
           _linkButton(context, 'Fox & Roach Profile',
               'https://micheledibenedetto.foxandroach.com/'),
           _linkButton(context, 'Realtor.com Profile',
